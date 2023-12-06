@@ -17,8 +17,8 @@ void solve(){
 }
 
 int32_t main(){
-    freopen("gostairs.inp","r",stdin);
-    freopen("gostairs.out","w",stdout);
+    //freopen("gostairs.inp","r",stdin);
+    //freopen("gostairs.out","w",stdout);
     solve();
 }
 
